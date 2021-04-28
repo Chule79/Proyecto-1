@@ -1,0 +1,42 @@
+.tabla{
+	
+	background-color: #000;
+	
+	opacity: 70%;
+	z-index: 99;
+	height: auto;
+	width: 100%;
+    border-color: #3dff3e;
+}
+
+.titulo{
+	font-size: 30px;
+	font-weight:bold;
+	margin-bottom: 10px;
+}
+.caja{
+	margin-bottom: 10px;	
+	width: 40%;
+	height: 30px;
+	background-color: #3dff3e;
+	font-size: 25px;
+	align-content: center;
+}
+
+.buscar{
+	margin-bottom: 10px;	
+	width: 40%;
+	height: 30px;
+	background-color: #3dff3e;
+	font-size: 25px;
+	align-content: center;
+	display: table-row;
+}
+
+.btm-buscar{
+	font-size: 30px;
+}
+
+.titulo{
+	font-size: 40px;
+}

@@ -1,0 +1,31 @@
+.tabla{
+	
+	background-color: #000;
+	
+	opacity: 70%;
+	z-index: 99;
+	height: auto;
+	width: 100%;
+    border-color: #3dff3e;
+}
+
+.titulo{
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-weight:bold;
+}
+.buscar{	
+	width: 100%;
+	background: #3dff3e;
+	padding: 10px;
+	border: none;
+	font-size:1em 
+}
+
+.btm-buscar{
+	font-size: 30px;
+}
+
+.titulo{
+	font-size: 40px;
+}
